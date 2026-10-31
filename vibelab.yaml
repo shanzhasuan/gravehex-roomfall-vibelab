@@ -1,0 +1,30 @@
+app:
+  name: "墓界：房间陷落"
+  slogan: "在迷雾笼罩的房间中拿起武器，守住通往墓界的入口。"
+  description: "《墓界：房间陷落》是一款面向 PICO 头显的房间尺度混合现实动作游戏。你将在被迷雾、南瓜灯与蛛网装饰包围的空间中，准备武器，迎接来自墓界的入侵。游戏围绕房间探索、近身交互和防守挑战展开，通过空间入口、武器架与补给区域组织体验，让准备、练习与挑战在同一房间内衔接。低多边形场景、暖色灯光与暗色环境共同营造万圣节氛围。\n\n• 房间体验：根据房间环境布置入口与交互区域，也可使用项目提供的虚拟环境。\n• 武器交互：拿取斧头、匕首和手枪，练习近战与射击，管理弹药并进行装填。\n• 挑战流程：准备装备后开启入侵挑战，面对不同敌人，完成阶段目标并选择强化。\n• 操作与设置：支持手柄与手势输入，可选择难度，使用暂停、教程和结果页面了解进度。\n\n首次体验建议先完成房间设置与操作教程，在有足够活动空间的区域进行游戏。"
+  tags: [动作, 冒险, 混合现实]
+  category: game
+  icon: assets/icon.jpg
+  landscape: assets/landscape.jpg
+  detail_images:
+    - assets/detail-1.jpg
+    - assets/detail-2.jpg
+    - assets/detail-3.jpg
+    - assets/detail-4.jpg
+    - assets/detail-5.jpg
+  videos: []
+version:
+  name: V1.0.0
+  notes: "首个发布版本，提供房间入口、武器架与补给交互，以及斧头、匕首、手枪的拿取和练习流程；包含入侵挑战、难度选择、暂停、教程和结果展示；支持手柄与手势输入；补齐中文菜单、交互提示与中文字库，并将应用名称统一为“墓界：房间陷落”。"
+build:
+  repo_url: https://github.com/shanzhasuan/gravehex-roomfall-vibelab
+  repo_visibility: public
+  tech_stack: unity
+  ai_tool: Trae CLI
+  ai_model: GPT-6
+  features:
+    - hand_tracking
+    - controller_support
+    - mixed_reality
+    - mixed_reality_capture
+  teammates: []
