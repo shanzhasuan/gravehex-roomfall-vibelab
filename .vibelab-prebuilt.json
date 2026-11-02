@@ -10,7 +10,7 @@
     "arm64-v8a"
   ],
   "target_sdk": 36,
-  "application_id": "com.pico.xr.template",
+  "application_id": "com.shanzhasuan.gravehex.roomfall",
   "native_inventory": [
     {
       "name": "libPicoAmbisonicDecoder.so",

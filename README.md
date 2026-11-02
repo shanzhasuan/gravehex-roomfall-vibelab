@@ -1,6 +1,6 @@
 # 墓界：房间陷落
 
-Unity PICO XR 混合现实游戏的 Android 发布工程。游戏界面使用中文。
+Unity PICO XR 混合现实游戏的 Android 发布工程。游戏界面使用中文。Android 应用包名为 `com.shanzhasuan.gravehex.roomfall`。
 
 ## 构建
 

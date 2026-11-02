@@ -8,7 +8,7 @@ dependencies {
 }
 
 android {
-    namespace "com.pico.xr.template"
+    namespace "com.shanzhasuan.gravehex.roomfall"
     ndkVersion "27.2.12479018"
     compileSdk 36
     buildToolsVersion = "36.0.0"
@@ -19,7 +19,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.pico.xr.template"
+        applicationId "com.shanzhasuan.gravehex.roomfall"
         versionName "V1.0.0"
         minSdk 29
         targetSdk 36
